@@ -1,4 +1,4 @@
-# XIMS: Interactive Social Media Simulation of Believable Human Proxies
+# XIMS: Interactive Social Media Simulation of Believable Human Proxies Mirror
 
 [![Build Status](https://travis-ci.com/koolamusic/xims.svg?branch=main)](https://travis-ci.com/koolamusic/xims)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
